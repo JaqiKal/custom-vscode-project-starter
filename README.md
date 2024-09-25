@@ -1,4 +1,4 @@
-# Jaqi VSCode Project Starter
+# Custom VSCode Project Starter
 
 This repository provides a customizable starter template for development projects using both **Gitpod** and **VS Code** environments. It is pre-configured with tools like Node.js, Python, PostgreSQL, MongoDB, and Heroku, and includes useful scripts to streamline development.
 
@@ -135,6 +135,11 @@ These extensions will be automatically installed in Gitpod and are recommended f
 1. Fork the repository.
 2. Make your changes.
 3. Open a pull request!
+
+### Made By
+
+[JaqiKal](https://github.com/JaqiKal/)
+
 
 ### I’m getting an error with PostgreSQL or MongoDB in Gitpod. What should I do?
 
